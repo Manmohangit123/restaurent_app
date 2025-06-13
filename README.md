@@ -1,10 +1,10 @@
 #restaurent_app
 
-## Overview
+# Overview
 
 This is a full-stack web application built to streamline operations between customers, branch managers, and franchise partners in a restaurant ecosystem. Developed using React (Vite) for the frontend and Node.js, Express, and MongoDB for the backend, this app provides a smooth and efficient experience for all user roles.this app has good user-interface for all types of customers. we can move from any page to any webpage easily and smoothly.
 
-## 🧠 Application Structure
+# 🧠 Application Structure
 
 ## Home Page Includes:
 
@@ -33,22 +33,22 @@ Branch: Username, phone, location, password, employee count
 
 Franchise: Franchise name, phone, location, investment, team size
 
-## 🖥️ Tech Stack
+# 🖥️ Tech Stack
 
-# Frontend
+## Frontend
 
 React (Vite)
 
 CSS Modules or TailwindCSS (as per your setup)
 
 
-# Backend
+## Backend
 
 Node.js
 
 Express.js
 
-# Database
+## Database
 
 MongoDB
 
