@@ -22,16 +22,25 @@ Order Now button (prompts login for guests)
 
 App logo (top-left), welcome message, and "Read More" button
 
+### Scrollable content sections: 
 
-## Scrollable content sections: About Us, Contact Us
+About Us
+
+Contact Us
 
 Authentication
 
-Customer: Phone number + password
+### Customer: 
 
-Branch: Username, phone, location, password, employee count
+Phone number + password
 
-Franchise: Franchise name, phone, location, investment, team size
+### Branch: 
+
+Username, phone, location, password, employee count
+
+### Franchise: 
+
+Franchise name, phone, location, investment, team size
 
 # 🖥️ Tech Stack
 
